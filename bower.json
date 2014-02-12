@@ -1,0 +1,24 @@
+{
+  "name": "jsbn",
+  "main": "jsbn.js",
+  "version": "1.4.0",
+  "homepage": "https://github.com/karolmajta/jsbn",
+  "description": "Tom Wu's pure Javascript implementation of arbitrary precision integer arithmetic",
+  "keywords": [
+    "arbitrary",
+    "precision",
+    "arithmetic",
+    "bigint",
+    "integer"
+  ],
+  "authors": [
+    "Tom Wu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
